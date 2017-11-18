@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AEE475DD-21E5-4D28-A352-E5C6CD7024CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Treehouse.FitnessFrog.Spa/Global.asax.cs">
+    <Files>
+      <File FileName="Treehouse.FitnessFrog.Spa/App_Start/WebApiConfig.cs" Line="13" Column="1" />
+      <File FileName="Treehouse.FitnessFrog.Spa/Global.asax.cs" Line="11" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Treehouse.FitnessFrog.Spa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
